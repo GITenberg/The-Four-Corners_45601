@@ -1,0 +1,32 @@
+_repo: The-Four-Corners_45601
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45601-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    alias: Blanchard, Amy E. (Amy Ella)
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2014-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Virginia -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Four Corners
+url: http://www.gutenberg.org/ebooks/45601
